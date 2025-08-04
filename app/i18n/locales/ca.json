@@ -1,0 +1,273 @@
+{
+  "common": {
+    "cancel": "Cancel·lar",
+    "contact": "Contacte",
+    "visitWeb": "Visitar web"
+  },
+  "errorScreen": {
+    "title": "Unexpected error",
+    "subtitle": "An error has occurred and the application must be restarted.",
+    "reset": "Reset the app"
+  },
+  "homeScreen": {
+    "weAre": "Estem",
+    "withYou": "amb tu",
+    "whatIs": "Què és…",
+    "comunicate": "Comunica’t amb la UPV",
+    "knowMore": "Coneix mès",
+    "vocabulary": "Glossari",
+    "game": "A Jugar!",
+    "combatThe": "CombatEl",
+    "racism": "Racisme"
+  },
+
+  "whatIsScreen": {
+    "title": "Què és…",
+    "questions": {
+      "question1": "Què és el RACISME?",
+      "question1_ans": "Qualsevol actitud o manifestació acadèmica, política o quotidiana que supose afirmar o reconèixer de manera explícita o implícita tant la inferioritat d’alguns col·lectius ètnics com la superioritat del col·lectiu propi.\n\nComportament racista interpersonal: denigrar o tractar irrespectuosament persones per la seua identitat ètnica o cultural (assetjament escolar o bullying; imitar la pronunciació o trets físics; caricatures…).\n\nRacisme institucional: s’obstaculitza o nega l’exercici de drets en condicions d’igualtat amb la societat hegemònica (habitatge, sanitat, banc, accés a comerços…).",
+      "question2": "Què és la XENOFÒBIA?",
+      "question2_ans": "El prejudici, l’odi o la por cap a persones d’altres països o cultures.\n\nActituds, prejudicis i comportaments que rebutgen, exclouen i moltes vegades vilipendien a les persones, basant-se en la percepció que són alienes o alienes a la comunitat, societat o identitat nacional.",
+      "question3": "Què és el DISCURS DE L’ODI?",
+      "question3_ans": "Qualsevol expressió que, sota qualsevol forma, promoga, difonga o justifique la violència, l’odi o el menyspreu cap a una persona o un grup de persones, o que hi incite; o bé que denigre aquesta persona o grup, per raó de les seues característiques personals reals o atribuïdes, o per la seua condició: ètnia, ascendència, origen nacional, identitat cultural, sexe, discapacitat, orientació sexual, identitat de gènere, pobresa, edat…",
+      "question4": "Què ès INCIDENT D'ODI?",
+      "question4_ans": "Un incident d'odi és aquell que és percebut per la víctima o per qualsevol altra persona com a racista, xenòfob o d'una altra forma d'intolerància, encara que no siga delicte.",
+      "question5": "Què són els DELICTES D’ODI?",
+      "question5_ans": "Qualsevol delicte contra les persones o les propietats, on la víctima o l'objectiu de la infracció es tria, pel seu real o percebuda connexió, suport o pertinença a un grup que es basa en una característica comuna dels seus membres, com la seua raça, l'origen nacional o ètnic, idioma, color, religió, sexe, edat, discapacitat intel·lectual o física, orientació o identitat sexual, sense llar o pobresa, o un altre factor similar.\n\nSi eres víctima d'algun delicte, demana ajuda trucant als telèfons de la Policia Nacional (tel. 900 100 091) i la Guàrdia Civil (tel. 900 100 062)."
+    }
+  },
+  "comunicateScreen": {
+    "title": "Comunica’t amb la UPV",
+    "question": "Soc estudiant de la UPV: on puc comunicar la situació que he viscut o presenciat?",
+    "subTitle1": "Direcció d’estudis del meu centre o direcció de màster o postgrau",
+    "subTitle1_body1": "Consulta el directori en",
+    "subTitle1_body2": "Localitza la direcció del teu màster o postgrau en",
+    "subTitle2": "Vicerectorat d’Art, Ciència, Tecnologia i Societat. Unitat d’Igualtat",
+    "subTitle2_body1": "Correu:",
+    "subTitle2_body2": "Accedeix a la",
+    "subTitle3": "Vicerectorat d’Estudiants i Emprenedoria",
+    "subTitle3_body1": "Accedeix a la",
+    "subTitle4": "Defensoria Universitària",
+    "subTitle4_body1": "Accedeix a la",
+    "subTitle4_body2": "",
+    "subTitle5": "Delegació d’Estudiants",
+    "subTitle5_body1": "Consulta els teus representants en",
+    "conector1": "aquest enllaç",
+    "conector2": "aquesta web",
+    "conector3": "Empra",
+    "conector4": "aquest",
+    "conector5": "Toca",
+    "conector6": "ací",
+    "conector7": "web"
+  },
+  "knowMoreScreen": {
+    "title": "Coneix mès",
+    "subtitle1": "Consell per a la discriminació racial o ètnica. Govern d'Espanya.",
+    "subtitle2": "IgualaT. Generalitat Valenciana",
+    "subtitle3": "Observatori espanyol del racisme i la xenofòbia. Govern d'Espanya",
+    "subtitle4": "APP ALERT COPS",
+    "subtitle5": "European Commission against Racism and Intolerance (ECRI)",
+    "subtitle6": "The European Network Against Racism (ENAR-EU)",
+    "subtitle7": "Espanya. Llei 15/2022, de 12 de juliol, integral per a la igualtat de tracte i la no discriminació",
+    "subtitle8": "ONU. Combat el racisme",
+    "subtitle9": "ONU. Discurs d'odi"
+  },
+  "glossaryScreen": {
+    "title": "Glossari",
+    "search": "Buscar paraula",
+    "sources": "Font"
+  },
+  "glossaryWords": [
+    {
+      "title": "Assetjament discriminatori",
+      "desc": "Qualsevol conducta realitzada per raó d’alguna de les causes de discriminació, amb l’objectiu o la conseqüència d’atemptar contra la dignitat d’una persona o del grup en què s’integra i de crear un entorn intimidatori, hostil, degradant, humiliant o ofensiu. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Afrofòbia",
+      "desc": "Forma específica de racisme que es refereix a qualsevol acte de violència i discriminació, inclòs el discurs racista, alimentat per abusos històrics i estereotips negatius, i que condueix a l’exclusió i la deshumanització dels afrodescendents. És el resultat de la construcció social de la raça, a la qual s’atribueixen especificitats i estereotips genètics i/o culturals (racialització). Pot adoptar moltes formes: desgrat, prejudicis, opressió, racisme i discriminació estructural i institucional, entre d’altres."
+    },
+    {
+      "title": "Antigitanisme o romafòbia",
+      "desc": "L’antigitanisme és una forma específica de racisme, una ideologia basada en la superioritat racial, una forma de deshumanització i racisme institucional alimentat per la discriminació històrica, que s’expressa, entre d’altres, a través de la violència, el discurs de l’odi, l’explotació, l’estigmatització i la discriminació més flagrant."
+    },
+    {
+      "title": "Antisemitisme",
+      "desc": "Prejudici, odi o discriminació contra les persones jueves com a grup ètnic, cultural o religiós. Es refereix a la complexa i diversa varietat d’expressions d’odi i violència, així com a qualsevol acte de discriminació dirigit a les persones jueves o a les que són percebudes per la societat hegemònica com a tals."
+    },
+    {
+      "title": "Discriminació directa",
+      "desc": "És la situació en què es troba una persona, o el grup en què s’integra, que reba, haja rebut o puga rebre un tracte menys favorable que d’altres en situació anàloga o comparable per raó de l’origen racial, ètnic o cultural. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació indirecta",
+      "desc": "Es produeix quan una disposició, un criteri o una pràctica aparentment neutres ocasiona o pot ocasionar a una o diverses persones un desavantatge particular respecte a d’altres per raó de l’origen racial, ètnic o cultural. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació interseccional",
+      "desc": "Es produeix quan concorren o interactuen diverses causes de les previstes en aquesta llei, cosa que genera una forma específica de discriminació. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació per associació",
+      "desc": "Quan una persona, o el grup en què s’integra, és objecte d’un tracte discriminatori pel fet de relacionar-se amb una altra persona diferenciada pel seu origen racial, ètnic o cultural. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació per error",
+      "desc": "És la que es basa en una apreciació incorrecta de les característiques de la persona o persones discriminades. Es refereix al fet que algú patisca discriminació per ser identificat amb trets o costums d’origen racial, ètnic o cultural. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació múltiple",
+      "desc": "Es produeix quan una persona és discriminada de manera simultània o consecutiva per dues o més causes de les previstes en aquesta llei. P. ex. per la seua ètnia i la seua religió. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Discriminació racial",
+      "desc": "Tota distinció, exclusió, restricció o preferència basada en motius de raça, color, llinatge o origen nacional o ètnic que tinga com a objecte o com a resultat anul·lar o menyscabar el reconeixement, gaudi o exercici, en condicions d’igualtat, dels drets humans i les llibertats fonamentals en les esferes política, econòmica, social i cultural, o en qualsevol altra esfera de la vida pública."
+    },
+    {
+      "title": "Igualtat de tracte y no discriminació. Espanya",
+      "desc": "Es reconeix el dret de tota persona a la igualtat de tracte i no discriminació amb independència de la seua nacionalitat, de si és menor o major d’edat o de si gaudeix o no de residència legal. Ningú pot ser discriminat per raó de naixement, origen racial o ètnic, sexe, religió, convicció o opinió, edat, discapacitat, orientació o identitat sexual, expressió de gènere, malaltia o condició de salut, estat serològic i/o predisposició genètica a patir patologies i trastorns, llengua, situació socioeconòmica, o qualsevol altra condició o circumstància personal o social. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Inducció a discriminar; ordre o instrucció de discriminar",
+      "desc": "És discriminatòria tota inducció a discriminar, o ordre o instrucció de fer-ho, per qualsevol de les causes establides en aquesta llei. La inducció ha de ser concreta, directa i eficaç per a fer sorgir en una altra persona una actuació discriminatòria. Consulteu la ",
+      "law": "Llei 15/22"
+    },
+    {
+      "title": "Intolerància",
+      "desc": "Comportament, actitud o forma d’expressió que nega la diversitat humana i viola o denigra la dignitat i els drets de qui és diferent, o fins i tot convida a violar-los o negar-los. Les manifestacions i formes d’intolerància són múltiples: el racisme, la xenofòbia, l’antisemitisme, el sexisme, l’homofòbia, la islamofòbia o l’aporofòbia, entre d’altres."
+    },
+    {
+      "title": "Islamofòbia",
+      "desc": "Racisme i discriminació contra els musulmans. Els fenòmens d’odi i discriminació contra els musulmans o contra persones percebudes com a musulmanes, com una forma específica de racisme. El terme es refereix al racisme i la discriminació antimusulmans per a caracteritzar la complexa i diversa varietat d’expressions d’odi i violència, així com qualsevol acte de discriminació dirigit als musulmans o a les persones percebudes com a musulmanes."
+    },
+    {
+      "title": "Latinofòbia",
+      "desc": "Prejudici, odi o discriminació contra les persones d’origen llatinoamericà o contra les que són percebudes com a tals."
+    },
+    {
+      "title": "Minoria",
+      "desc": "Grup numèricament inferior a la resta de la població d’un Estat que no està en posició de domini, els membres del qual -que són nacionals de l’Estat- posseeixen característiques ètniques, religioses o lingüístiques que difereixen de les de la resta de la població i que mantenen, almenys implícitament, un sentit de solidaritat cap a la preservació de la seua cultura, tradicions, religió o idioma."
+    },
+    {
+      "title": "Odi",
+      "desc": "El concepte d’odi es refereix a l’odi basat en la raça, el color, la religió, l’ascendència o l’origen nacional o ètnic."
+    },
+    {
+      "title": "Perfil racial",
+      "desc": "Ús per part de la policia, sense justificació objectiva i raonable, de criteris com ara la raça, el color, la llengua, la religió, la nacionalitat o l’origen racial o ètnic per a activitats de control, vigilància o investigació. La Comissió Europea contra el Racisme i la Intolerància (ECRI segons les sigles en anglès), a qui pertany aquesta definició, ha demanat a tots els Estats que definisquen i prohibisquen clarament per llei la pràctica del perfil racial, la qual constitueix una forma específica de discriminació racial."
+    },
+    {
+      "title": "Racisme",
+      "desc": "Idees o teories basades en la superioritat d’una raça o d’un grup de persones d’un determinat color o origen ètnic, o que pretenen justificar o promoure l’odi i la discriminació racials."
+    },
+    {
+      "title": "Segregació",
+      "desc": "Acte pel qual una persona (física o jurídica) separa altres persones sobre la base d’un dels motius enumerats més amunt (raça, color, idioma, religió, nacionalitat, o origen nacional o ètnic) sense una justificació objectiva i raonable."
+    },
+    {
+      "title": "Sinofòbia",
+      "desc": "Prejudici, odi o discriminació contra les persones xineses o contra les que són percebudes com a xineses."
+    },
+    {
+      "title": "Xenofòbia",
+      "desc": "Actituds, prejudicis i comportaments que rebutgen, exclouen i sovint difamen una persona o un col·lectiu de persones basant-se en la percepció que venen de fora o són estrangers respecte a la comunitat, societat o identitat nacional de referència."
+    }
+  ],
+  "gameScreen": {
+    "title": "A jugar!",
+    "header": "Vols posar a prova els teus coneixements sobre diversitat cultural? Ací tens 10 preguntes curtes 1 resposta possible. I com en qualsevol prova hi ha una puntuació sent 10 el màxim que pots obtindre i 0 la puntuació més baixa.",
+    "description": "Comencem? Anem!!",
+    "play": "Començar"
+  },
+  "gamePlayScreen": {
+    "title": "A jugar!",
+    "next": "Següent",
+    "answerToGoOn": "Contesta per a avançar",
+    "finish": "Finalitzar",
+    "quitTheGame": "Segur que vols cancel·lar el joc?",
+    "dontCancel": "No",
+    "cancelTheGame": "Sí, cancel·lar"
+  },
+  "gameOverScreen": {
+    "title": "Joc finalitzat",
+    "thanks": "Gràcies per participar",
+    "results": "respostes correctes",
+    "exit": "Eixir"
+  },
+  "gameWords": [
+    {
+      "quiz_p": "Tots els drets humans són indivisibles i interdependents",
+      "quiz_a1": "A) Vertader",
+      "quiz_a2": "B) Fals",
+      "correctAnswer": "A) Vertader"
+    },
+    {
+      "quiz_p": "La discriminació racial pot ocórrer sobre la base de...",
+      "quiz_a1": "A) Raça",
+      "quiz_a2": "B) Color",
+      "quiz_a3": "C) Descendència",
+      "quiz_a4": "D) Origen nacional",
+      "quiz_a5": "E) Origen ètnic",
+      "quiz_a6": "F) Tots els factors anteriors",
+      "correctAnswer": "F) Tots els factors anteriors"
+    },
+    {
+      "quiz_p": "La discriminació per associació es pateix quan…",
+      "quiz_a1": "A) Una persona rep un tracte discriminatori per ser amiga, companya, o parella d’una altra persona diferenciada de la majoria pel seu origen ètnic o cultural",
+      "quiz_a2": "B) Una persona és membre d’un col·lectiu discriminat",
+      "correctAnswer": "A) Una persona rep un tracte discriminatori per ser amiga, companya, o parella d’una altra persona diferenciada de la majoria pel seu origen ètnic o cultural"
+    },
+    {
+      "quiz_p": "La discriminació racial pot tenir un impacte negatiu en l’accés a...",
+      "quiz_a1": "A) L’atenció sanitària",
+      "quiz_a2": "B) La justícia",
+      "quiz_a3": "C) L’educació",
+      "quiz_a4": "D) L’allotjament",
+      "quiz_a5": "E) Tots els elements anteriors",
+      "correctAnswer": "E) Tots els elements anteriors"
+    },
+    {
+      "quiz_p": "Si et tracten de manera menys favorable per raó del teu origen ètnic o cultural, pateixes...",
+      "quiz_a1": "A) La descortesia o mala educació d’aquesta persona",
+      "quiz_a2": "B) Discriminació directa",
+      "correctAnswer": "B) Discriminació directa"
+    },
+    {
+      "quiz_p": "Quan una persona o un grup de persones manté actituds, prejudicis i comportaments que exclouen i difamen altres persones pel seu origen o cultura, això constitueix un comportament...",
+      "quiz_a1": "A) Groller si es fa en un partit de futbol o al basar del barri",
+      "quiz_a2": "B) Xenòfob",
+      "correctAnswer": "B) Xenòfob"
+    },
+    {
+      "quiz_p": "El perjudici, l’odi o la discriminació contra les persones jueves com a grup ètnic, cultural i religiós és:",
+      "quiz_a1": "A) Una cosa del passat que no es dona en la nostra realitat",
+      "quiz_a2": "B) Antisemitisme",
+      "correctAnswer": "B) Antisemitisme"
+    },
+    {
+      "quiz_p": "“Les persones gitanes no pateixen discriminació; el que passa és que no s’integren.” Aquesta frase expressa...",
+      "quiz_a1": "A) Una realitat que no és ofensiva per a ningú",
+      "quiz_a2": "B) Antigitanisme, com a expressió de racisme cap al Poble Gitano",
+      "correctAnswer": "B) Antigitanisme, com a expressió de racisme cap al Poble Gitano."
+    },
+    {
+      "quiz_p": "El racisme i la discriminació cap a les persones musulmanes pel seu origen i cultura és:",
+      "quiz_a1": "A) Islamofòbia, com un fenomen d’odi i discriminació",
+      "quiz_a2": "B) Natural davant allò que no es coneix",
+      "correctAnswer": "A) Islamofòbia, com un fenomen d’odi i discriminació"
+    },
+    {
+      "quiz_p": "Si parlem de l’existència d’episodis i situacions de sinofòbia i llatinofòbia, fem referència:",
+      "quiz_a1": "A) Al fet que la gent xinesa és hermètica i no es relacionen, mentre que les persones llatinoamericanes només es relacionen entre si",
+      "quiz_a2": "B) A prejudicis, odi o discriminació contra les persones xineses o les d’origen llatinoamericà, i contra les persones percebudes com a tals",
+      "correctAnswer": "B) A prejudicis, odi o discriminació contra les persones xineses o les d’origen llatinoamericà, i contra les persones percebudes com a tals"
+    }
+  ]
+}

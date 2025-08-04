@@ -1,0 +1,273 @@
+{
+  "common": {
+    "cancel": "Cancelar",
+    "contact": "Contacto",
+    "visitWeb": "Visita la web"
+  },
+  "errorScreen": {
+    "title": "Unexpected error",
+    "subtitle": "An error has occurred and the application must be restarted.",
+    "reset": "Reset the app"
+  },
+  "homeScreen": {
+    "weAre": "Estamos",
+    "withYou": "contigo",
+    "whatIs": "Qué es...",
+    "comunicate": "Comunica con UPV",
+    "knowMore": "Conoce más",
+    "vocabulary": "Glosario",
+    "game": "¡A Jugar!",
+    "combatThe": "CombateEl",
+    "racism": "Racismo"
+  },
+
+  "whatIsScreen": {
+    "title": "Qué es...",
+    "questions": {
+      "question1": "¿Qué es el RACISMO?",
+      "question1_ans": "Cualquier actitud o manifestación académica, política o cotidiana que suponga afirmar o reconocer de forma explícita o implícita, tanto la inferioridad de algunos colectivos étnicos como la superioridad del colectivo propio.\n\nComportamiento racista interpersonal: denigrar o tratar irrespetuosamente a personas por su identidad étnica o cultural (bullying, imitar pronunciación o rasgos físicos, caricaturas…)\n\nRacismo institucional: se obstaculiza o niega el ejercicio de derechos en condiciones de igualdad con la sociedad hegemónica (vivienda, sanidad, banco, acceso a comercios…)",
+      "question2": "¿Qué es la XENOFOBIA?",
+      "question2_ans": "Prejuicio, el odio o el miedo hacia personas de otros países o culturas.\n\nActitudes, prejuicios y comportamientos que rechazan, excluyen y muchas veces vilipendian a las personas, basándose en la percepción de que son ajenas o ajenas a la comunidad, sociedad o identidad nacional.",
+      "question3": "¿Qué es el DISCURSO DE ODIO?",
+      "question3_ans": "El discurso de odio consiste en fomentar, promover o incitar, directa o indirectamente, al odio, hostilidad, discriminación o violencia contra un grupo, una parte del mismo o contra una persona por razón de su pertenencia a aquél, por motivos racistas, antigitanos, antisemitas, islamófobos u otros referentes a la ideología, religión o creencias, situación familiar, la pertenencia de sus miembros a una etnia, raza o nación, su origen nacional, su sexo, orientación o identidad sexual, por razones de género, enfermedad o discapacidad, sin hogar, edad.",
+      "question4": "¿Qué es INCIDENTE DE ODIO?",
+      "question4_ans": "Un incidente de odio es aquel que es percibido por la víctima o por cualquier otra persona como racista, xenófobo o de otra forma de intolerancia, aunque no sea delito.",
+      "question5": "¿Qué son los DELITOS DE ODIO?",
+      "question5_ans": "Cualquier delito contra las personas o las propiedades, donde la víctima o el objetivo de la infracción se elige, por su real o percibida conexión, apoyo o pertenencia a un grupo que se basa en una característica común de sus miembros, como su raza, el origen nacional o étnico, idioma, color, religión, sexo, edad, discapacidad intelectual o física, orientación o identidad sexual, sin hogar o pobreza, u otro factor similar.\n\nSi eres víctima de algún delito, pide ayuda llamando a los teléfonos de la Policía Nacional (telf. 900 100 091) y la Guardia Civil (telf. 900 100 062)."
+    }
+  },
+  "comunicateScreen": {
+    "title": "Comunica con UPV",
+    "question": "Soy estudiante UPV ¿dónde comunico la situación vivida o presenciada?",
+    "subTitle1": "Jefatura de estudios de mi centro o dirección de máster o posgrado",
+    "subTitle1_body1": "Consulta el directorio en",
+    "subTitle1_body2": "Localiza la dirección de tu máster o posgrado en",
+    "subTitle2": "Vicerrectorado de Arte, Ciencia, Tecnología y Sociedad. Unidad de Igualdad",
+    "subTitle2_body1": "Correo:",
+    "subTitle2_body2": "Accede a la",
+    "subTitle3": "Vicerrectorado de Estudiantes y Emprendimiento",
+    "subTitle3_body1": "Accede a la",
+    "subTitle4": "Defensoría Universitaria",
+    "subTitle4_body1": "Accede a la",
+    "subTitle4_body2": "",
+    "subTitle5": "Delegación de Estudiantes",
+    "subTitle5_body1": "Consulta con tus representantes en",
+    "conector1": "este enlace",
+    "conector2": "esta web",
+    "conector3": "Utiliza",
+    "conector4": "este",
+    "conector5": "Toca",
+    "conector6": "aquí",
+    "conector7": "web"
+  },
+  "knowMoreScreen": {
+    "title": "Conoce más",
+    "subtitle1": "Consejo para la discriminación racial o étnica. Gobierno de España.",
+    "subtitle2": "IgualaT. Generalitat Valenciana",
+    "subtitle3": "Observatorio español del racismo y la xenofobia. Gobierno de España",
+    "subtitle4": "APP ALERT COPS",
+    "subtitle5": "European Commission against Racism and Intolerance (ECRI)",
+    "subtitle6": "The European Network Against Racism (ENAR-EU)",
+    "subtitle7": "España. Ley 15/2022, de 12 de julio, integral para la igualdad de trato y la no discriminación",
+    "subtitle8": "ONU. Combate el racismo",
+    "subtitle9": "ONU. Discurso de odio"
+  },
+  "glossaryScreen": {
+    "title": "Glosario",
+    "search": "Buscar palabra",
+    "sources": "Fuente"
+  },
+  "glossaryWords": [
+    {
+      "title": "Acoso discriminatorio",
+      "desc": "Cualquier conducta realizada por razón de alguna de las causas de discriminación, con el objetivo o la consecuencia de atentar contra la dignidad de una persona o grupo en que se integra y de crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Afrofobia",
+      "desc": "Forma específica de racismo que se refiere a cualquier acto de violencia y discriminación, incluido el discurso racista, alimentado por abusos históricos y estereotipos negativos, y que conduce a la exclusión y deshumanización de los afrodescendientes. Es el resultado de la construcción social de la raza a la que se atribuyen especificidades y estereotipos genéticos y/o culturales (racialización). Puede adoptar muchas formas: desagrado, prejuicios, opresión, racismo y discriminación estructural e institucional, entre otras."
+    },
+    {
+      "title": "Antigitanismo o romafobia",
+      "desc": "El antigitanismo es una forma específica de racismo, una ideología fundada en la superioridad racial, una forma de deshumanización y racismo institucional alimentado por la discriminación histórica, que se expresa, entre otros, en la violencia, el discurso del odio, la explotación, la estigmatización y la discriminación más flagrante."
+    },
+    {
+      "title": "Antisemitismo",
+      "desc": "Prejuicio, odio o discriminación contra las personas judías como grupo étnico, cultural o religioso. Se refiere a la compleja y diversa variedad de expresiones de odio y violencia, así como cualquier acto de discriminación dirigido a las personas judías o a aquellas personas percibidas por la sociedad hegemónica como tales."
+    },
+    {
+      "title": "Discriminación directa",
+      "desc": "Es la situación en que se encuentra una persona o grupo en que se integra que sea, haya sido o pudiera ser tratada de manera menos favorable que otras en situación análoga o comparable por razón de origen racial o étnico o cultural. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación indirecta",
+      "desc": "Se produce cuando una disposición, criterio o práctica aparentemente neutros ocasiona o puede ocasionar a una o varias personas una desventaja particular con respecto a otras por razón de origen racial o étnico o cultural. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación interseccional",
+      "desc": "Se produce cuando concurren o interactúan diversas causas de las previstas en esta ley, generando una forma específica de discriminación. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación por asociación",
+      "desc": "Cuando una persona o grupo en que se integra es objeto de un trato discriminatorio por relacionarse con otra persona diferenciada por su origen racial o étnico o cultural. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación por error",
+      "desc": "Aquella que se funda en una apreciación incorrecta acerca de las características de la persona o personas discriminadas. Se refiere a sufrir discriminación por ser identificada con los rasgos o costumbres de origen racial o étnico o cultural. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación múltiple",
+      "desc": "Se produce cuando una persona es discriminada de manera simultánea o consecutiva por dos o más causas de las previstas en esta ley.  P.ej. por su etnia y su religión. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Discriminación racial",
+      "desc": "Toda distinción, exclusión, restricción o preferencia basada en motivos de raza, color, linaje u origen nacional o étnico que tenga por objeto o por resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de los derechos humanos y libertades fundamentales en las esferas política, económica, social, cultural o en cualquier otra esfera de la vida pública."
+    },
+    {
+      "title": "Igualdad de trato y no discriminación. España",
+      "desc": "Se reconoce el derecho de toda persona a la igualdad de trato y no discriminación con independencia de su nacionalidad, de si son menores o mayores de edad o de si disfrutan o no de residencia legal. Nadie podrá ser discriminado por razón de nacimiento, origen racial o étnico, sexo, religión, convicción u opinión, edad, discapacidad, orientación o identidad sexual, expresión de género, enfermedad o condición de salud, estado serológico y/o predisposición genética a sufrir patologías y trastornos, lengua, situación socioeconómica, o cualquier otra condición o circunstancia personal o social. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Inducción, orden o instrucción de discriminar",
+      "desc": "Es discriminatoria toda inducción, orden o instrucción de discriminar por cualquiera de las causas establecidas en esta ley. La inducción ha de ser concreta, directa y eficaz para hacer surgir en otra persona una actuación discriminatoria. Consultar ",
+      "law": "Ley 15/22"
+    },
+    {
+      "title": "Intolerancia",
+      "desc": "Comportamiento, actitud o forma de expresión que niega la diversidad humana y viola o denigra la dignidad y los derechos del diferente, o incluso invita a violarlos o negarlos. Las manifestaciones y formas de intolerancia son múltiples: el racismo, la xenofobia, el antisemitismo, el sexismo, la homofobia, la islamofobia, la aporofobia, entre otras."
+    },
+    {
+      "title": "Islamofobia",
+      "desc": "Racismo y discriminación contra los musulmanes. Los fenómenos de odio y discriminación contra los musulmanes o aquellos percibidos como musulmanes como una forma específica de racismo. Se refiere al racismo y la discriminación antimusulmanes para caracterizar la compleja y diversa variedad de expresiones de odio y violencia, así como cualquier acto de discriminación dirigido a los musulmanes. o aquellos percibidos como personas musulmanas."
+    },
+    {
+      "title": "Latinofobia",
+      "desc": "Prejuicio, odio o discriminación contra las personas de origen latinoamericano o contra aquellas percibidas como tales."
+    },
+    {
+      "title": "Minoría",
+      "desc": "Grupo numéricamente inferior al resto de la población de un Estado que no está en posición de dominio, cuyos miembros -que son nacionales del Estado- poseen características étnicas, religiosas o lingüísticas que difieren de las del resto de la población y que mantienen, al menos implícitamente, un sentido de solidaridad hacia la preservación de su cultura, tradiciones, religión o idioma."
+    },
+    {
+      "title": "Odio",
+      "desc": "El concepto de odio se refiere al odio basado en la raza, el color, la religión, la ascendencia o el origen nacional o étnico."
+    },
+    {
+      "title": "Perfil racial",
+      "desc": "Uso por parte de la policía, sin justificación objetiva y razonable, de criterios como la raza, el color, la lengua, la religión, la nacionalidad o el origen racial o étnico, para actividades de control, vigilancia o investigación. La Comisión Europea contra el Racismo y la Intolerancia (ECRI en sus siglas en inglés), a quien pertenece esta definición, ha pedido a todos los Estados que definan y prohíban claramente por ley la práctica del perfil racial, la cual constituye una forma específica de discriminación racial."
+    },
+    {
+      "title": "Racismo",
+      "desc": "Ideas o teorías basadas en la superioridad de una raza o de un grupo de personas de un determinado color u origen étnico, o que pretenden justificar o promover el odio racial y la discriminación racial."
+    },
+    {
+      "title": "Segregación",
+      "desc": "Acto por el que una persona (física o jurídica) separa a otras personas sobre la base de uno de los motivos enumerados (“raza”, color, idioma, religión, nacionalidad, u origen nacional o étnico) sin una justificación objetiva y razonable."
+    },
+    {
+      "title": "Sinofobia",
+      "desc": "Prejuicio, odio o discriminación contra las personas chinas o contra aquellas percibidas como chinas."
+    },
+    {
+      "title": "Xenofobia",
+      "desc": "Actitudes, prejuicios y comportamientos que rechazan, excluyen y frecuentemente difaman a una persona o colectivo de personas basándose en la percepción de que vienen de fuera o son extranjeros con respecto a la comunidad, sociedad o identidad nacional de referencia."
+    }
+  ],
+  "gameScreen": {
+    "title": "¡A Jugar!",
+    "header": "¿Quieres poner a prueba tus conocimientos sobre diversidad cultural? Aquí tienes 10 preguntas cortas 1 respuesta posible. Y como en cualquier prueba hay una puntuación siendo 10 el máximo que puedes obtener y 0 la puntuación más baja.",
+    "description": "¿Empezamos? ¡¡Adelante!!",
+    "play": "Empezar el juego"
+  },
+  "gamePlayScreen": {
+    "title": "¡A Jugar!",
+    "next": "Siguiente",
+    "answerToGoOn": "Contesta para avanzar",
+    "finish": "Finalizar",
+    "quitTheGame": "¿Seguro que quieres cancelar el juego?",
+    "dontCancel": "No",
+    "cancelTheGame": "Sí, cancelar"
+  },
+  "gameOverScreen": {
+    "title": "Juego finalizado",
+    "thanks": "Gracias por jugar",
+    "results": "respuestas correctas",
+    "exit": "Salir del juego"
+  },
+  "gameWords": [
+    {
+      "quiz_p": "Todos los derechos humanos son indivisibles e interdependientes",
+      "quiz_a1": "A) Verdadero",
+      "quiz_a2": "B) Falso",
+      "correctAnswer": "A) Verdadero"
+    },
+    {
+      "quiz_p": "La discriminación racial puede ocurrir sobre la base de:",
+      "quiz_a1": "A) Raza",
+      "quiz_a2": "B) Color",
+      "quiz_a3": "C) Descendencia",
+      "quiz_a4": "D) Origen nacional",
+      "quiz_a5": "E) Origen étnico",
+      "quiz_a6": "F) Todo lo anterior",
+      "correctAnswer": "F) Todo lo anterior"
+    },
+    {
+      "quiz_p": "La discriminación por asociación se sufre cuando…",
+      "quiz_a1": "A) Una persona recibe un trato discriminatorio por ser amiga, compañera, o pareja de otra persona diferenciada de la mayoría por su origen étnico o cultural",
+      "quiz_a2": "B) Una persona es miembro de un colectivo discriminado",
+      "correctAnswer": "A) Una persona recibe un trato discriminatorio por ser amiga, compañera, o pareja de otra persona diferenciada de la mayoría por su origen étnico o cultural"
+    },
+    {
+      "quiz_p": "La discriminación racial puede tener un impacto negativo en el acceso a:",
+      "quiz_a1": "A) Cuidado de la salud",
+      "quiz_a2": "B) Justicia",
+      "quiz_a3": "C) Educación",
+      "quiz_a4": "D) Alojamiento",
+      "quiz_a5": "E) Todo lo anterior",
+      "correctAnswer": "E) Todo lo anterior"
+    },
+    {
+      "quiz_p": "Si te tratan de manera menos favorable por razón de tu origen étnico o cultural, estás sufriendo...",
+      "quiz_a1": "A) La descortesía o mala educación de esa persona",
+      "quiz_a2": "B) Discriminación directa",
+      "correctAnswer": "B) Discriminación directa"
+    },
+    {
+      "quiz_p": "Cuando una persona o grupo de personas mantiene actitudes, prejuicios y comportamientos que excluyen y difaman a otras personas por su origen o cultura, es un comportamiento:",
+      "quiz_a1": "A) Grosero si se hace en un partido de fútbol o con el bazar del barrio",
+      "quiz_a2": "B) Xenófobo",
+      "correctAnswer": "B) Xenófobo"
+    },
+    {
+      "quiz_p": "El perjuicio, odio o discriminación contra las personas judías como grupo étnico, cultural y religioso es:",
+      "quiz_a1": "A) Algo del pasado que no se da en nuestra realidad",
+      "quiz_a2": "B) Antisemitismo",
+      "correctAnswer": "B) Antisemitismo"
+    },
+    {
+      "quiz_p": "“Las personas gitanas no sufren discriminación, lo que sucede es que no se integran”. Esta frase expresa:",
+      "quiz_a1": "A) Una realidad no ofensiva para nadie",
+      "quiz_a2": "B) Antigitanismo, como expresión del racismo hacia el Pueblo Gitano",
+      "correctAnswer": "B) Antigitanismo, como expresión del racismo hacia el Pueblo Gitano"
+    },
+    {
+      "quiz_p": "El racismo y la discriminación hacia las personas musulmanas por su origen y cultura es:",
+      "quiz_a1": "A) Islamofobia como un fenómeno de odio y discriminación",
+      "quiz_a2": "B) Natural ante lo que no se conoce",
+      "correctAnswer": "A) Islamofobia como un fenómeno de odio y discriminación"
+    },
+    {
+      "quiz_p": "Si hablamos de la existencia de episodios y situaciones de sinofobia y latinofobia, estamos haciendo referencia a:",
+      "quiz_a1": "A) La gente china es hermética y no se relacionan; las personas latinoamericanas solo se relacionan entre ellas",
+      "quiz_a2": "B) Prejuicio, odio o discriminación contra las personas chinas o personas de origen latinoamericano y contra las personas percibidas como tales",
+      "correctAnswer": "B) Prejuicio, odio o discriminación contra las personas chinas o personas de origen latinoamericano y contra las personas percibidas como tales"
+    }
+  ]
+}

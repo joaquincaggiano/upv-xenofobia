@@ -1,0 +1,274 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "contact": "Contact",
+    "visitWeb": "Visit the website"
+  },
+  "errorScreen": {
+    "title": "Unexpected error",
+    "subtitle": "An error has occurred and the application must be restarted.",
+    "reset": "Reset the app"
+  },
+  "homeScreen": {
+    "weAre": "We are",
+    "withYou": "with you",
+    "whatIs": "What is...",
+    "comunicate": "Communicates with UPV",
+    "knowMore": "Learn more",
+    "vocabulary": "Glossary",
+    "game": "Play!",
+    "combatThe": "Fight",
+    "racism": "Racism"
+  },
+
+  "whatIsScreen": {
+    "title": "What is...",
+    "questions": {
+      "question1": "What is RACISM?",
+      "question1_ans": "Any academic, political, or everyday attitude or manifestation that explicitly or implicitly affirms or recognises the inferiority of certain ethnic groups or the superiority of one's group.\n\nInterpersonal racist behaviour: denigrating or treating people disrespectfully because of their ethnic or cultural identity (bullying, imitating pronunciation or physical features, caricatures...).\n\nInstitutional racism: hindering or denying rights on equal terms with the hegemonic society (housing, health, banking, access to shops, etc.).",
+      "question2": "What is XENOPHOBIA?",
+      "question2_ans": "Prejudice, hatred or fear of people from other countries or cultures. Attitudes, prejudices and behaviours that reject exclude and often vilify people based on the perception that they are alien or foreign to the community, society or national identity.",
+      "question3": "What is HATE SPEECH?",
+      "question3_ans": "Hate speech consists of encouraging, promoting or inciting, directly or indirectly, hatred, hostility, discrimination or violence against a group, part of a group or a person because of their membership of a group, on racist, anti-Roma, anti-Semitic, Islamophobic or other grounds relating to ideology, religion or beliefs, family status, ethnicity, race or national origin, gender, sexual orientation or identity, gender, illness or disability, homelessness, age.",
+      "question4": "What is a HATE INCIDENT?",
+      "question4_ans": "A hate incident is perceived by the victim or any other person as racist, xenophobic or otherwise intolerant, even if it is not a crime.",
+      "question5": "What are HATE CRIMES?",
+      "question5_ans": "Any crime against persons or property where the victim or target of the offence is chosen because of their actual or perceived connection, support or membership of a group that is based on a common characteristic of its members, such as their race, national or ethnic origin, language, colour, religion, sex, age, intellectual or physical disability, sexual orientation or identity, homelessness or poverty, or other similar factor.\n\nIf you are a victim of a crime, ask for help by calling the National Police (tel. 900 100 091) and the Civil Guard (tel. 900 100 062)."
+    }
+  },
+  "comunicateScreen": {
+    "title": "Communicates with UPV",
+    "question": "I am a UPV student; where do I report the situation I have experienced or witnessed?",
+    "subTitle1": "Head of Studies at my institution or Master's or postgraduate course directorate",
+    "subTitle1_body1": "Consult the directory at",
+    "subTitle1_body2": "Locate the address of your Master's or",
+    "subTitle1_body2_part2": "postgraduate course in",
+    "subTitle2": "Vice-Rectorate for Art, Science, Technology and Society. Equality Unit",
+    "subTitle2_body1": "Email:",
+    "subTitle2_body2": "Access the",
+    "subTitle3": "Vice-Rectorate for Students and Entrepreneurship",
+    "subTitle3_body1": "Access the",
+    "subTitle4": "University Ombudsman's Office",
+    "subTitle4_body1": "to go to the University Ombudsman's",
+    "subTitle4_body2": "website",
+    "subTitle5": "Student Delegation",
+    "subTitle5_body1": "Consult your representatives on this",
+    "conector1": "this link",
+    "conector2": "web",
+    "conector3": "Use",
+    "conector4": "this",
+    "conector5": "Click",
+    "conector6": "here",
+    "conector7": "website"
+  },
+  "knowMoreScreen": {
+    "title": "Learn more",
+    "subtitle1": "Council for Racial or Ethnic Discrimination. Government of Spain.",
+    "subtitle2": "IgualaT. Generalitat Valenciana",
+    "subtitle3": "Spanish Observatory of Racism and Xenophobia. Government of Spain",
+    "subtitle4": "APP ALERT COPS",
+    "subtitle5": "European Commission against Racism and Intolerance (ECRI)",
+    "subtitle6": "The European Network Against Racism (ENAR-EU)",
+    "subtitle7": "Spain. Law 15/2022, of July 12, comprehensive for equal treatment and non-discrimination",
+    "subtitle8": "UN. Fight Racism",
+    "subtitle9": "UN. Hate Speech"
+  },
+  "glossaryScreen": {
+    "title": "Glossary",
+    "search": "Search word",
+    "sources": "Source"
+  },
+  "glossaryWords": [
+    {
+      "title": "Afrophobia",
+      "desc": "A specific form of racism that refers to any act of violence and discrimination, including racist discourse, fuelled by historical abuses and negative stereotypes, leading to the exclusion and dehumanisation of people of African descent. It results from the social construction of race to which genetic and/or cultural specificities and stereotypes are attributed (racialisation). It can take many forms: dislike, prejudice, oppression, racism, and structural and institutional discrimination, among others."
+    },
+    {
+      "title": "Anti-gypsyism or roma-phobia",
+      "desc": "Anti-Gypsyism is a specific form of racism, an ideology founded on racial superiority, a form of dehumanisation and institutional racism fuelled by historical discrimination, which expresses itself, among others, in violence, hate speech, exploitation, stigmatisation and the most blatant discrimination."
+    },
+    {
+      "title": "Anti-semitism",
+      "desc": "Prejudice, hatred or discrimination against Jewish people as an ethnic, cultural or religious group. Refers to the complex and diverse range of expressions of hatred and violence and any discrimination directed at Jewish people or those perceived by the hegemonic society as such."
+    },
+    {
+      "title": "Direct discrimination",
+      "desc": "It is the situation in which a person or group into which they are integrated is, has been or could be treated less favourably than others in an analogous or comparable situation based on racial, ethnic or cultural origin. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Discrimination by association",
+      "desc": "When a person or group into which they are integrated is subjected to discriminatory treatment because they are related to another person differentiated by their racial or, ethnic or cultural origin. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Discrimination by mistake",
+      "desc": "Discrimination is based on an incorrect assessment of the characteristics of the person or persons discriminated against. It refers to suffering discrimination for being identified with the traits or customs of racial, ethnic, or cultural origin. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Discriminatory harassment",
+      "desc": "Any conduct carried out based on any of the causes of discrimination, with the aim or the consequence of violating the dignity of a person or group in which they are integrated and of creating an intimidating, hostile, degrading, humiliating or offensive environment. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Equal treatment and non-discrimination. Spain",
+      "desc": "The right of all persons to equal treatment and non-discrimination is recognised, regardless of their nationality, whether they are minors or adults, or whether or not they are legally resident. No one may be discriminated against on the grounds of birth, racial or ethnic origin, sex, religion, conviction or opinion, age, disability, sexual orientation or identity, gender expression, illness or health condition, serological status and/or genetic predisposition to suffer pathologies and disorders, language, socioeconomic situation, or any other personal or social condition or circumstance. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Hate",
+      "desc": "The concept of hatred refers to hatred based on race, colour, religion, descent, or national or ethnic origin."
+    },
+    {
+      "title": "Indirect discrimination",
+      "desc": "It occurs when a neutral provision, criterion or practice causes or is likely to cause one or more persons a disadvantage compared to others based on racial, ethnic or cultural origin. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Inducement, order or instruction to discriminate",
+      "desc": "Any encouragement, order or instruction to discriminate on any of the grounds set out in this law is discriminatory. The inducement must be concrete, direct and practical to bring about a discriminatory action in another person. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Intersectional discrimination",
+      "desc": "This occurs when several of the causes foreseen in this law concur or interact, generating a specific form of discrimination. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Intolerance",
+      "desc": "Behaviour, attitude or form of expression denies human diversity and violates or denigrates the dignity and rights of those who are different or even invites their violation or denial. The manifestations and forms of intolerance are manifold: racism, xenophobia, anti-Semitism, sexism, homophobia, Islamophobia, and aporophobia, among others."
+    },
+    {
+      "title": "Islamophobia",
+      "desc": "Racism and discrimination against muslims. Phenomena of hatred and discrimination against Muslims or those perceived as Muslims as a specific form of racism. Refers to anti-Muslim racism and bigotry to characterise the complex and diverse range of expressions of hatred and violence, as well as any act of discrimination directed at Muslims or those perceived as Muslims."
+    },
+    {
+      "title": "Latinophobia",
+      "desc": "Prejudice, hatred or discrimination against people of Latin American origin or those perceived as such."
+    },
+    {
+      "title": "Minority",
+      "desc": "A group numerically smaller than the rest of the population of a State that is not in a position of dominance, whose members - who are nationals of the State - possess ethnic, religious or linguistic characteristics that differ from those of the rest of the population and who maintain, at least implicitly, a sense of solidarity towards the preservation of their culture, traditions, religion or language."
+    },
+    {
+      "title": "Multiple discrimination",
+      "desc": "It occurs when a person is discriminated against simultaneously or consecutively on two or more grounds set out in this law.  E.g. because of their ethnicity and religion. See ",
+      "law": "Law 15/22"
+    },
+    {
+      "title": "Racial discrimination",
+      "desc": "Any distinction, exclusion, restriction or preference based on race, colour, descent, or national or ethnic origin which has the purpose or effect of nullifying or impairing the recognition, enjoyment or exercise on an equal footing of human rights and fundamental freedoms in the political, economic, social, cultural or any other field of public life."
+    },
+    {
+      "title": "Racial profiling",
+      "desc": "Use by the police, without objective and reasonable justification, of criteria such as race, colour, language, religion, nationality or racial or ethnic origin for control, surveillance or investigative activities. The European Commission against Racism and Intolerance (ECRI), to which this definition belongs, has called on all states to clearly define and prohibit by law the practice of racial profiling, which constitutes a specific form of racial discrimination."
+    },
+    {
+      "title": "Racism",
+      "desc": "Ideas or theories based on the superiority of one race or group of people of a particular colour or ethnic origin or which seek to justify or promote racial hatred and discrimination."
+    },
+    {
+      "title": "Segregation",
+      "desc": "An act by which a person (natural or legal) separates other persons based on one of the listed grounds ('race', colour, language, religion, nationality, or national or ethnic origin) without objective and reasonable justification."
+    },
+    {
+      "title": "Sinophobia",
+      "desc": "Prejudice, hatred or discrimination against Chinese people or those perceived as Chinese."
+    },
+    {
+      "title": "Xenophobia",
+      "desc": "Attitudes, prejudices and behaviours that reject, exclude and often defame a person or group based on the perception that they are outsiders or foreigners concerning the community, society or national identity of reference."
+    }
+  ],
+  "gameScreen": {
+    "title": "Play!",
+    "header": "Do you want to test your knowledge about cultural diversity? Here are 10 short questions with 1 possible answer. And as in any test there is a score, 10 being the maximum you can get and 0 being the lowest score.",
+    "description": "Shall we start? Let's go!!",
+    "play": "Start"
+  },
+  "gamePlayScreen": {
+    "title": "Play!",
+    "next": "Next one",
+    "answerToGoOn": "Answer to advance",
+    "finish": "Finish",
+    "quitTheGame": "Are you sure you want to cancel the game?",
+    "dontCancel": "No",
+    "cancelTheGame": "Yes, cancel"
+  },
+  "gameOverScreen": {
+    "title": "Game finished",
+    "thanks": "Thanks for participating",
+    "results": "correct answers",
+    "exit": "Exit"
+  },
+  "gameWords": [
+    {
+      "quiz_p": "All human rights are indivisible and interdependent.",
+      "quiz_a1": "A) True",
+      "quiz_a2": "B) False",
+      "correctAnswer": "A) True"
+    },
+    {
+      "quiz_p": "Racial discrimination can occur based on:",
+      "quiz_a1": "A) Race",
+      "quiz_a2": "B) Colour",
+      "quiz_a3": "C) Descent",
+      "quiz_a4": "D) National origin",
+      "quiz_a5": "E) Ethnic origin",
+      "quiz_a6": "F) All of the above",
+      "correctAnswer": "F) All of the above"
+    },
+    {
+      "quiz_p": "Discrimination by association is suffered when...",
+      "quiz_a1": "A) A person is discriminated against because he or she is a friend, companion or partner of another person who is different from the majority because of his or her ethnic or cultural origin",
+      "quiz_a2": "B) A person is a member of a discriminated group",
+      "correctAnswer": "A) A person is discriminated against because he or she is a friend, companion or partner of another person who is different from the majority because of his or her ethnic or cultural origin"
+    },
+    {
+      "quiz_p": "Racial discrimination can harm access to:",
+      "quiz_a1": "A) Health care",
+      "quiz_a2": "B) Justice",
+      "quiz_a3": "C) Education",
+      "quiz_a4": "D) Accommodation",
+      "quiz_a5": "E) All of the above",
+      "correctAnswer": "E) All of the above"
+    },
+    {
+      "quiz_p": "If you are treated less favourably based on your ethnic or cultural background, you are suffering from...",
+      "quiz_a1": "A) That person's rudeness or impoliteness",
+      "quiz_a2": "B) Direct discrimination",
+      "correctAnswer": "B) Direct discrimination"
+    },
+    {
+      "quiz_p": "When a person or group of persons holds attitudes, prejudices and behaviours that exclude and defame others based on their origin or culture, this is behaviour:",
+      "quiz_a1": "A) Rude if it is done at a football match or with the neighbourhood bazaar",
+      "quiz_a2": "B) Xenophobe",
+      "correctAnswer": "B) Xenophobe"
+    },
+    {
+      "quiz_p": "Harm, hatred or discrimination against Jewish people as an ethnic, cultural and religious group is:",
+      "quiz_a1": "A) Something from the past that does not exist in our reality",
+      "quiz_a2": "B) Anti-Semitism",
+      "correctAnswer": "B) Anti-Semitism"
+    },
+    {
+      "quiz_p": "“Roma people are not discriminated against; what happens is that they are not integrated”. This sentence expresses:",
+      "quiz_a1": "A) A reality that offends no one",
+      "quiz_a2": "B) Anti-Gypsyism or Romaphobia, as an expression of racism towards the Roma",
+      "correctAnswer": "B) Anti-Gypsyism or Romaphobia, as an expression of racism towards the Roma"
+    },
+    {
+      "quiz_p": "Racism and discrimination towards Muslim people based on their origin and culture is:",
+      "quiz_a1": "A) Islamophobia as a phenomenon of hatred and discrimination",
+      "quiz_a2": "B) Natural in the face of what is unknown",
+      "correctAnswer": "A) Islamophobia as a phenomenon of hatred and discrimination"
+    },
+    {
+      "quiz_p": "If we talk about the existence of episodes and situations of Sinophobia and Latinophobia, we are referring to:",
+      "quiz_a1": "A) Chinese people are hermetic and don't interact; Latin American people only interact with each other",
+      "quiz_a2": "B) Prejudice, hatred or discrimination against Chinese persons or persons of Latin American origin and persons perceived as such",
+      "correctAnswer": "B) Prejudice, hatred or discrimination against Chinese persons or persons of Latin American origin and persons perceived as such"
+    }
+  ]
+}
