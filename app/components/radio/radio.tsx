@@ -27,7 +27,7 @@ const CHECK: ViewStyle = {
 }
 
 export const Radio = (props: RadioProps) => (
-  <View style={[ROOT, {backgroundColor: props.appStyle.mainColor, borderColor: props.appStyle.oppositeColor, ...props.style}]}>
-    {props.value && <View style={[CHECK, {backgroundColor: props.appStyle.oppositeColor}]}/> }
+  <View style={[ROOT, {backgroundColor: props.appStyle.mainColor, borderColor: props.appStyle.secondaryColor, ...props.style}]}>
+    {props.value && <View style={[CHECK, {backgroundColor: props.appStyle.secondaryColor}]}/> }
   </View>
-)
+);
