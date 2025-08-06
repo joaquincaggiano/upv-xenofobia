@@ -42,7 +42,7 @@
     "subTitle1": "Direcció d’estudis del meu centre o direcció de màster o postgrau",
     "subTitle1_body1": "Consulta el directori en",
     "subTitle1_body2": "Localitza la direcció del teu màster o postgrau en",
-    "subTitle2": "Vicerectorat d’Art, Ciència, Tecnologia i Societat. Unitat d’Igualtat",
+    "subTitle2": "Vicerectorat d&#39;Art, Ciència, Tecnologia i Societat. Unitat d&#39;Igualtat i Diversitat. Accedeix a la web",
     "subTitle2_body1": "Correu:",
     "subTitle2_body2": "Accedeix a la",
     "subTitle3": "Vicerectorat d’Estudiants i Emprenedoria",
@@ -58,7 +58,9 @@
     "conector4": "aquest",
     "conector5": "Toca",
     "conector6": "ací",
-    "conector7": "web"
+    "conector7": "web",
+    "normative": "Normativa de convivència universitària i de règim disciplinari de la UPV",
+    "normativeLink": "https://www.upv.es/entidades/SA/ciclos/U0930403.pdf"
   },
   "knowMoreScreen": {
     "title": "Coneix mès",

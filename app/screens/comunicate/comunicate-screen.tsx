@@ -1,11 +1,11 @@
-import {NativeStackScreenProps} from '@react-navigation/native-stack';
-import React, {FC} from 'react';
-import {Linking, View} from 'react-native';
-import {NavigatorParamList} from '../../navigators';
-import {observer} from 'mobx-react-lite';
-import {getAppStyle, spacing} from '../../theme';
-import {Screen, Text} from '../../components';
-import {TxKeyPath, i18n, translate} from '../../i18n';
+import { NativeStackScreenProps } from '@react-navigation/native-stack';
+import React, { FC } from 'react';
+import { Linking, View } from 'react-native';
+import { NavigatorParamList } from '../../navigators';
+import { observer } from 'mobx-react-lite';
+import { getAppStyle, spacing } from '../../theme';
+import { Screen, Text } from '../../components';
+import { TxKeyPath, i18n, translate } from '../../i18n';
 
 interface itemsComunicate {
   title: TxKeyPath;
@@ -21,7 +21,7 @@ interface itemsComunicate {
 
 export const ComunicateScreen: FC<
   NativeStackScreenProps<NavigatorParamList, 'comunicate'>
-> = observer(({navigation}) => {
+> = observer(({ navigation }) => {
   const appStyle = getAppStyle();
 
   const textStyles = {
@@ -65,8 +65,8 @@ export const ComunicateScreen: FC<
       descriptionTitle2: 'comunicateScreen.subTitle2_body2',
       url2:
         i18n.locale === 'ca'
-          ? 'https://www.upv.es/entidades/vacts/va/inici/'
-          : 'https://www.upv.es/entidades/vacts/',
+          ? 'https://www.upv.es/entidades/vacts/va/unitat-digualtat/'
+          : 'https://www.upv.es/entidades/vacts/unidad-de-igualdad/',
       conector1: 'comunicateScreen.conector7',
     },
     {
@@ -107,15 +107,16 @@ export const ComunicateScreen: FC<
     <Screen
       preset="scroll"
       backgroundColor={appStyle.screen.backgroundColor}
-      style={appStyle.screen}>
+      style={appStyle.screen}
+    >
       <View>
         <Text tx="comunicateScreen.question" style={textStyles.question} />
       </View>
 
-      <View style={{marginTop: spacing.large}}>
+      <View style={{ marginTop: spacing.large }}>
         {items.map(item => {
           return (
-            <View key={item.title} style={{marginBottom: spacing.medium}}>
+            <View key={item.title} style={{ marginBottom: spacing.medium }}>
               {/* Títulos */}
               <Text tx={item.title} style={textStyles.title} />
 
@@ -126,7 +127,8 @@ export const ComunicateScreen: FC<
                     style={{
                       ...textStyles.descriptionBody,
                       marginBottom: spacing.medium,
-                    }}>
+                    }}
+                  >
                     {translate(item.descriptionTitle)}
                     <Text> </Text>
                     <Text
@@ -181,7 +183,8 @@ export const ComunicateScreen: FC<
                     style={{
                       ...textStyles.descriptionBody,
                       marginBottom: spacing.medium,
-                    }}>
+                    }}
+                  >
                     {translate(item.descriptionTitle)}
                     <Text> </Text>
                     <Text
@@ -197,7 +200,8 @@ export const ComunicateScreen: FC<
                   <Text
                     style={{
                       ...textStyles.descriptionBody,
-                    }}>
+                    }}
+                  >
                     {translate(item.descriptionTitle2!)}
                     <Text> </Text>
                     <Text
@@ -217,7 +221,8 @@ export const ComunicateScreen: FC<
                 <Text
                   style={{
                     ...textStyles.descriptionBody,
-                  }}>
+                  }}
+                >
                   {translate(item.descriptionTitle)}
                   <Text> </Text>
                   <Text
@@ -237,7 +242,8 @@ export const ComunicateScreen: FC<
                   <Text
                     style={{
                       ...textStyles.descriptionBody,
-                    }}>
+                    }}
+                  >
                     {translate(item.conector1!)}
                     <Text> </Text>
                     <Text
@@ -263,7 +269,8 @@ export const ComunicateScreen: FC<
                   <Text
                     style={{
                       ...textStyles.descriptionBody,
-                    }}>
+                    }}
+                  >
                     {translate(item.descriptionTitle)}
                     <Text> </Text>
                     <Text
@@ -283,9 +290,9 @@ export const ComunicateScreen: FC<
                   <Text
                     style={{
                       ...textStyles.descriptionBody,
-                    }}>
+                    }}
+                  >
                     {translate(item.descriptionTitle)}
-                    <Text> </Text>
                     <Text
                       onPress={() => openURL(item.url1)}
                       style={{
@@ -302,6 +309,24 @@ export const ComunicateScreen: FC<
             </View>
           );
         })}
+      </View>
+
+      <View
+        style={{
+          marginTop: 'auto',
+          paddingTop: spacing.large,
+          paddingBottom: spacing.medium,
+        }}
+      >
+        <Text
+          tx="comunicateScreen.normative"
+          style={{
+            ...textStyles.descriptionBody,
+            textDecorationLine: 'underline',
+            textAlign: 'center',
+          }}
+          onPress={() => openURL(translate('comunicateScreen.normativeLink')!)}
+        />
       </View>
     </Screen>
   );
