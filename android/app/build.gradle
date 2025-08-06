@@ -81,8 +81,8 @@ android {
     namespace = "es.upv.ext.stopxenofobia"
     defaultConfig {
         applicationId "es.upv.ext.stopxenofobia"
-        minSdkVersion rootProject.ext.minSdkVersion
-        targetSdkVersion rootProject.ext.targetSdkVersion
+        minSdk rootProject.ext.minSdkVersion
+        targetSdk rootProject.ext.targetSdkVersion
         versionCode 2
         versionName "1.0.1"
         missingDimensionStrategy "store", "play"

@@ -11,6 +11,7 @@
     "android-clean": "cd android && ./gradlew clean",
     "android-apk": "cd android && ./gradlew assembleRelease",
     "android-bundle": "cd android && ./gradlew bundleRelease",
+    "android-full-clean": "cd android && ./gradlew clean && cd .. && rm -rf android/app/build && yarn android",
     "new-git": "node ./scripts/new-git.js",
     "rename": "node ./scripts/rename-app.js",
     "change-bootsplash": "node ./scripts/change-bootsplash.js"
