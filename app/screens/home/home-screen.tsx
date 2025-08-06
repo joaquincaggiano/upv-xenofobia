@@ -404,7 +404,7 @@ export const HomeScreen: FC<
         }}>
         <Image
           source={require('../../../assets/UPV/marca_UPV.png')}
-          style={{width: 148.905, height: 45}}
+          style={{width: 148.905, height: 85.057}}
         />
       </View>
     </Screen>
