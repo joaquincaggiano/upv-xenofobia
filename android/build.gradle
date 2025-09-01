@@ -18,4 +18,12 @@ buildscript {
     }
 }
 
+// Configure all projects to use the same repositories
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
 apply plugin: "com.facebook.react.rootproject"
