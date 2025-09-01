@@ -83,8 +83,8 @@ android {
         applicationId "es.upv.ext.stopxenofobia"
         minSdk rootProject.ext.minSdkVersion
         targetSdk rootProject.ext.targetSdkVersion
-        versionCode 5
-        versionName "1.0.4"
+        versionCode 6
+        versionName "1.0.5"
         missingDimensionStrategy "store", "play"
     }
     signingConfigs {
