@@ -5,6 +5,9 @@
     "strictFunctionTypes": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
-    "noImplicitThis": true
-  }
+    "noImplicitThis": true,
+    "types": ["jest"]
+  },
+  "include": ["**/*.ts", "**/*.tsx"],
+  "exclude": ["**/node_modules", "**/Pods"]
 }
